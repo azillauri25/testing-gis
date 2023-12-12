@@ -42,6 +42,9 @@
   #header_lokasi{
     margin-top:0px !important;
   }
+  #btn_kelurahan{
+    margin-top:10px;
+  }
 
 }
 
@@ -69,6 +72,9 @@
   .client_section .owl-carousel .owl-nav .owl-next {
     position: unset;
     margin: 0 2.5px;
+  }
+  #btn_kelurahan{
+    margin-top:10px;
   }
 }
 
