@@ -52,8 +52,6 @@
   .header_section .header_top .contact_nav a span {
     display: none;
   }
-
-
   .client_section .client_container {
     width: 100%;
   }
@@ -61,7 +59,10 @@
   .client_section .box {
     margin: 0;
   }
-
+  .mapDetail{
+    margin-left: 15px;
+    margin-right: 15px;
+  }
   .owl-nav {
     display: flex;
     justify-content: center;
